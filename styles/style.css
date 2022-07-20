@@ -221,7 +221,54 @@ footer{
 
 
    /* footer sections end */
+
+
+
   
+   /* secend part miggle start */
+ .gra img{
+    width: 93.04px;
+    height: 56.18px;
+ }
+ .fra img{
+    width: 93.04px;
+    height: 54.42px;
+ }
+ .gra-fra{
+    display: flex;
+    justify-content: space-between;
+ }
+ .all-bro{
+    width: 312px;
+    height: 242px;
+    border-radius: 5px;
+    border: 1px solid #E8E8E8;
+ }
+ .bros{
+    padding: 53px 30px;
+    text-align: center;
+ }
+ .all-bro{
+    width:100%;
+    
+ }
+ .prent{
+    width: 75%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap:10px ;
+    grid-column-gap:10px ;
+ }
+ 
+ 
+ 
+
+
+
+
+
+
+   /* secend part miggle start */
 
     
    
